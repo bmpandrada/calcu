@@ -56,3 +56,9 @@ button {
     width: 10em;
     border-radius: 1em;
 }
+
+@media (max-width: 947px) {
+    .container {
+        width: 100%;
+    }
+}
